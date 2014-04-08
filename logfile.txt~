@@ -1,0 +1,121 @@
+Fri, 07 Mar 2014 09:48:24 MST	127.0.0.1	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckoGET	404 Not Found
+Fri, 07 Mar 2014 09:48:24 MST	127.0.0.1	GET /favicon.ico HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeGET	404 Not Found
+Fri, 07 Mar 2014 09:48:24 MST	127.0.0.1	GET /favicon.ico HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeGET	404 Not Found
+Fri, 07 Mar 2014 09:48:45 MST	127.0.0.1	GET /test. HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) Gecko/20GET	404 Not Found
+Fri, 07 Mar 2014 09:48:47 MST	127.0.0.1	GET /t HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) Gecko/201001GET	404 Not Found
+Fri, 07 Mar 2014 09:48:52 MST	127.0.0.1	GET /server_f.c HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GecGET	404 Not Found
+Fri, 07 Mar 2014 09:49:00 MST	127.0.0.1	GET /server_f.c HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GecGET	404 Not Found
+Fri, 07 Mar 2014 09:50:57 MST	127.0.0.1	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckoGET	404 Not Found
+Fri, 07 Mar 2014 09:54:08 MST	127.0.0.1	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckoGET	404 Not Found
+Fri, 07 Mar 2014 09:55:03 MST	127.0.0.1	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckoGET	404 Not Found
+Fri, 07 Mar 2014 12:40:20 MST	127.0.0.1	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckoGET	404 Not Found
+Fri, 07 Mar 2014 12:40:20 MST	127.0.0.1	GET /favicon.ico HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeGET	404 Not Found
+Fri, 07 Mar 2014 12:40:20 MST	127.0.0.1	GET /favicon.ico HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeGET	404 Not Found
+Fri, 07 Mar 2014 12:42:37 MST	127.0.0.1	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckoGET	404 Not Found
+Fri, 07 Mar 2014 12:44:56 MST	127.0.0.1	/test.txt	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) Gecko/20100101 Firefox/27.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+
+
+Fri, 07 Mar 2014 12:50:26 MST	127.0.0.1	/test.txt	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) Gecko/20100101 Firefox/27.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Cache-Control: max-age=0
+
+
+Fri, 07 Mar 2014 12:52:53 MST	127.0.0.1	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckoGET	404 Not Found
+Fri, 07 Mar 2014 12:52:57 MST	127.0.0.1	GET /test.html HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckGET	404 Not Found
+Fri, 07 Mar 2014 12:53:18 MST	127.0.0.1	GET /test.html HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckGET	404 Not Found
+Fri, 07 Mar 2014 12:53:20 MST	127.0.0.1	GET /test.html HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckGET	404 Not Found
+Fri, 07 Mar 2014 12:53:21 MST	127.0.0.1	GET /test.html HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckGET	404 Not Found
+Fri, 07 Mar 2014 12:55:00 MST	127.0.0.1	GET /test.html HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckGET	404 Not Found
+Fri, 07 Mar 2014 12:55:03 MST	127.0.0.1	GET /test.html HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckGET	404 Not Found
+Fri, 07 Mar 2014 12:55:06 MST	127.0.0.1	GET /test.txt HTTP/1.1
+Host: localhost:8000
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:27.0) GeckoGET	404 Not Found
+Fri, 07 Mar 2014 12:56:08 MST	127.0.0.1	.test.txt	404 Not Found
+Fri, 07 Mar 2014 12:59:13 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 12:59:15 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 13:01:14 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 13:03:30 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 13:10:36 MST	127.0.0.1	.test.txt	404 Not Found
+Fri, 07 Mar 2014 13:13:16 MST	127.0.0.1	.test.txt	404 Not Found
+Fri, 07 Mar 2014 13:14:38 MST	127.0.0.1	.test.txt	404 Not Found
+Fri, 07 Mar 2014 13:14:39 MST	127.0.0.1	.test.txt	404 Not Found
+Fri, 07 Mar 2014 13:16:54 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 13:19:07 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 13:21:41 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 13:22:52 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 13:29:01 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 13:29:03 MST	127.0.0.1	/cshome/test.txt	404 Not Found
+Fri, 07 Mar 2014 13:32:12 MST	127.0.0.1		404 Not Found
+Fri, 07 Mar 2014 13:32:13 MST	127.0.0.1		404 Not Found
+Fri, 07 Mar 2014 13:32:14 MST	127.0.0.1		404 Not Found
+Fri, 07 Mar 2014 13:34:00 MST	127.0.0.1	/cshome//test.tx	404 Not Found
+Fri, 07 Mar 2014 13:35:33 MST	127.0.0.1	/cshome/¨œ,Œ…/test.tx	404 Not Found
+Fri, 07 Mar 2014 13:36:38 MST	127.0.0.1	/cshome//test.tx	404 Not Found
+
+DNT: 1
+Connection: keep-alive
+Cache-Control: max-age=0
+
+	127.0.0.1	.test.txt	404 Not Found
+
+DNT: 1
+Connection: keep-alive
+Cache-Control: max-age=0
+
+	127.0.0.1	.test.txt	404 Not Found
+Fri, 07 Mar 2014 15:24:17 MST	127.0.0.1		400 Bad Request
