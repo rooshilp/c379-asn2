@@ -1,5 +1,4 @@
 Rooshil Patel
-1255318
 Assignment 2
 CMPUT 379
 
